@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(239, 239, 239);
+    margin: 0;
+    padding: 0px 50px;
+}
+
+p {
+    text-align: center;
+    color: black;
+
+
+    
+}
+h1 {
+    text-align: center;
+}
+
+
+img {
+    width: 40;
+    height: 40;
+    position: absolute;
+    left: 800px;
+    top: 135px;
+    left:50;
+    border: solid black 2px;
+    
+    
+}
+
+
+
+#bottom {
+    margin-top: 40pxpx;
+    margin-bottom: 40px;
+}
+h2.monospace {
+    font-family: Lucida Console, Courier, monospace;
+    position: relative;
+
+       
+     right: 50px;
+  }
+
+.serif {
+    font-family: "Times New Roman", Times, serif;
+     
+    position: relative;
+
+     /* margin: 40px 570px 30px 5px;  */
+     right: 50px;
+  
+
+    
+}
+
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.main-nav {
+    float:center;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li {
+    display: inline-block;
+}
+
+
+.main-nav li a:hover{
+    border: 1px solid
+}
